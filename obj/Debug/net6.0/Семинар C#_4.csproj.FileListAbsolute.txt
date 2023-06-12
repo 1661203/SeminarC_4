@@ -1,0 +1,5 @@
+G:\Мой диск\УЧЁБА - Разработчик\C#\Семинар C#_4\obj\Debug\net6.0\Семинар C#_4.csproj.AssemblyReference.cache
+G:\Мой диск\УЧЁБА - Разработчик\C#\Семинар C#_4\obj\Debug\net6.0\Семинар C#_4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\УЧЁБА - Разработчик\C#\Семинар C#_4\obj\Debug\net6.0\Семинар C#_4.AssemblyInfoInputs.cache
+G:\Мой диск\УЧЁБА - Разработчик\C#\Семинар C#_4\obj\Debug\net6.0\Семинар C#_4.AssemblyInfo.cs
+G:\Мой диск\УЧЁБА - Разработчик\C#\Семинар C#_4\obj\Debug\net6.0\Семинар C#_4.csproj.CoreCompileInputs.cache
