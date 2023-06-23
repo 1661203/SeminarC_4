@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Мой диск\\УЧЁБА - Разработчик\\C#\\Семинар C#_4\\Семинар C#_4.csproj": {}
+    "D:\\Учёба\\C#\\Семинар C#_4\\Семинар C#_4.csproj": {}
   },
   "projects": {
-    "G:\\Мой диск\\УЧЁБА - Разработчик\\C#\\Семинар C#_4\\Семинар C#_4.csproj": {
+    "D:\\Учёба\\C#\\Семинар C#_4\\Семинар C#_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Мой диск\\УЧЁБА - Разработчик\\C#\\Семинар C#_4\\Семинар C#_4.csproj",
+        "projectUniqueName": "D:\\Учёба\\C#\\Семинар C#_4\\Семинар C#_4.csproj",
         "projectName": "Семинар C#_4",
-        "projectPath": "G:\\Мой диск\\УЧЁБА - Разработчик\\C#\\Семинар C#_4\\Семинар C#_4.csproj",
+        "projectPath": "D:\\Учёба\\C#\\Семинар C#_4\\Семинар C#_4.csproj",
         "packagesPath": "C:\\Users\\Наталья\\.nuget\\packages\\",
-        "outputPath": "G:\\Мой диск\\УЧЁБА - Разработчик\\C#\\Семинар C#_4\\obj\\",
+        "outputPath": "D:\\Учёба\\C#\\Семинар C#_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Наталья\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }
